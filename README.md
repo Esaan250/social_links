@@ -10,4 +10,4 @@
 
 <h2>Resultado Obtido</h2>
 
-<img src="./ProgBr">
+<img src="./ProgBr.png">
